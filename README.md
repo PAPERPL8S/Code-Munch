@@ -1,4 +1,4 @@
-# Travel Destinations
+# Coworking & Networking Made Easier
 
-A simple app to keep track of destinations I'd like to visit.# JS-website-with-API
+A simple app to find local pop-up coworking spaces.
 # CodeMunch
